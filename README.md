@@ -8,4 +8,4 @@ http://webscraper.io/
 
 https://data-miner.io/
 
-https://scrapinghub.com/porti
+https://scrapinghub.com/portia
